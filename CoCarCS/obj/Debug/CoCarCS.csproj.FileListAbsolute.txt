@@ -1,0 +1,16 @@
+C:\Users\yuriy\source\4 лаба\CarCom\CoCarCS\bin\Debug\CoCarCS.exe.config
+C:\Users\yuriy\source\4 лаба\CarCom\CoCarCS\bin\Debug\CoCarCS.exe
+C:\Users\yuriy\source\4 лаба\CarCom\CoCarCS\bin\Debug\CoCarCS.pdb
+C:\Users\yuriy\source\4 лаба\CarCom\CoCarCS\obj\Debug\CoCarCS.csproj.AssemblyReference.cache
+C:\Users\yuriy\source\4 лаба\CarCom\CoCarCS\obj\Debug\CoCarCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\yuriy\source\4 лаба\CarCom\CoCarCS\obj\Debug\CoCarCS.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\source\4 лаба\CarCom\CoCarCS\obj\Debug\CoCarCS.exe
+C:\Users\yuriy\source\4 лаба\CarCom\CoCarCS\obj\Debug\CoCarCS.pdb
+C:\Users\yuriy\source\4lab\CarCom\CoCarCS\bin\Debug\CoCarCS.exe.config
+C:\Users\yuriy\source\4lab\CarCom\CoCarCS\bin\Debug\CoCarCS.exe
+C:\Users\yuriy\source\4lab\CarCom\CoCarCS\bin\Debug\CoCarCS.pdb
+C:\Users\yuriy\source\4lab\CarCom\CoCarCS\obj\Debug\CoCarCS.csproj.AssemblyReference.cache
+C:\Users\yuriy\source\4lab\CarCom\CoCarCS\obj\Debug\CoCarCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\yuriy\source\4lab\CarCom\CoCarCS\obj\Debug\CoCarCS.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\source\4lab\CarCom\CoCarCS\obj\Debug\CoCarCS.exe
+C:\Users\yuriy\source\4lab\CarCom\CoCarCS\obj\Debug\CoCarCS.pdb
